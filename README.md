@@ -1,5 +1,9 @@
 # Clinic Management System (Java LLD Project)
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![IntelliJ](https://img.shields.io/badge/IDE-IntelliJ_IDEA-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 A simple Low-Level Design (LLD) project built in **pure Java**, simulating a single-doctor clinic that manages patient appointments (online/offline), doctor availability, and billing (consultation + pharmacy medicines).
 
 This project was built step-by-step as a self-learning exercise in Object-Oriented Design, following the same structured approach used in real LLD interview problems: Description → Assumptions → Rules → Example I/O → Class Diagram → Code.
