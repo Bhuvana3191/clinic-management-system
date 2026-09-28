@@ -98,6 +98,10 @@ Output: Total = 500 + 20 + 60 = Rs.580
 
 ```
 clinic-management-system/
+ ├── .claude
+ │    └── skills
+ │         └── java-code-review
+ │              └── SKILL.md
  ├── src
  │    └── com.clinic
  │         ├── models
@@ -166,6 +170,15 @@ The demo also includes hardcoded scenarios showing:
 - Multi-patient conflict handling
 - Appointment cancellation
 - Bill generation with pharmacy medicines
+
+---
+
+## Code Review Skill
+
+This repo includes a Claude Code skill at
+`.claude/skills/java-code-review/SKILL.md`. It defines a review checklist for this
+project: encapsulation, null safety, booking edge cases, unused code, naming, and
+input validation. With Claude Code, run `/java-code-review` from the project root.
 
 ---
 
